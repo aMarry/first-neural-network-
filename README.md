@@ -1,2 +1,4 @@
 # first-neural-network-
-first-neural-network for udacity 
+udacity first project for submit
+
+Forecasting the use of bike sharing
